@@ -1,3 +1,8 @@
+# PLEASE read the following site to PUSH and PULL to github. YOU DO NOT NEED
+# github desktop, everything can be pushed through the TERMINAL in R. 
+# The site has commands to push or create a repo. 
+# http://nickstrayer.me/RMarkdown_Sites_tutorial/
+
 name: "Kevins-website"
 output_dir: "."
 navbar:
@@ -12,7 +17,11 @@ navbar:
     - text: "Publications"
       href: publications.html
     - text: "CV"
-      href: C:\Users\Xing-Jie Liang\Desktop\Photos\resume1.pdf
+      # You would use the code below to reference it LOCALLY, to actually put 
+      # images you need to add it to the R FOLDER called Photos and then push 
+      # to github. 
+      # href: C:\Users\Xing-Jie Liang\Desktop\Photos\resume1.pdf
+      href: Photos\resume1.pdf
       
 output:
   html_document:

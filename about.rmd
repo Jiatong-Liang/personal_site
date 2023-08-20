@@ -3,10 +3,11 @@ title: "About Me"
 ---
 For undergraduate education, I graduated from the University of Maryland, College Park (UMD) in 2023 with a degree in Mathematics and a minor in Computer Science. During my time at Maryland, I was a member of the Federal Global Fellows program, University Honors College, and FLAME. Through the Fellows program, I had opportunities to work at the Department of the Treasury, Department of Energy, and the Food and Drug Administration. In addition, I had the opportunity to work for the UMD Department of Mathematics by serving as a tutor and teaching assistant for 2 years. I am very grateful for all these experiences that allowed me to explore my passion for teaching and public service.
 
-Some of my hobbies include running, biking, and art. My favorite art forms are charcoal and water color. Feel free to browse through some of my most recent works!
+<!--- Some of my hobbies include running, biking, and art. My favorite art forms are charcoal and water color. Feel free to browse through some of my most recent works! --->
 <hr>
 
 <!---![](/Users/Xing-Jie Liang/Desktop/Photos/graduation_photo_1.jpg){text-align="center" width="600"}--->
 <div style="text-align: center;">
-  <img src="/Users/Xing-Jie Liang/Desktop/Photos/graduation_photo_1.jpg" width="600">
+  <!--- <img src="/Users/Xing-Jie Liang/Desktop/Photos/graduation_photo_1.jpg" width="600"> This code only works locally, can't be used along with github--->
+    <img src=Photos/graduation_photo_1.jpg width="600">
 </div>

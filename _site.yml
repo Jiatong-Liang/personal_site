@@ -21,7 +21,7 @@ navbar:
       # images you need to add it to the R FOLDER called Photos and then push 
       # to github. 
       # href: C:\Users\Xing-Jie Liang\Desktop\Photos\resume1.pdf
-      href: \assets\resume1.pdf
+      href: assets\resume1.pdf
       
 output:
   html_document:

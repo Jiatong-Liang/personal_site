@@ -9,5 +9,5 @@ For undergraduate education, I graduated from the University of Maryland, Colleg
 <!---![](/Users/Xing-Jie Liang/Desktop/Photos/graduation_photo_1.jpg){text-align="center" width="600"}--->
 <div style="text-align: center;">
   <!--- <img src="/Users/Xing-Jie Liang/Desktop/Photos/graduation_photo_1.jpg" width="600"> This code only works locally, can't be used along with github--->
-    <img src="main/assets/graduation_photo_1.JPG" width="600">
+    <img src="assets/graduation_photo_1.JPG" width="600">
 </div>

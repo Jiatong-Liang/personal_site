@@ -3,7 +3,7 @@ title: "Jiatong Liang's Website"
 ---
 
 <!--- <img align="right" width="400" hspace="25" src="/Users/Xing-Jie Liang/Desktop/Photos/profile2.jpg"> can't be used for github, this code only works locally. Notice on code below we don't put quotations anymore because we don't reference a LOCAL computer, I literally uploaded the image into R so now we juse reference the folder in R directly.--->
-<img align="right" width="400" hspace="25" src="photos/profile2.jpg">
+<img align="right" width="400" hspace="25" src="/assets/profile2.jpg">
 My name is Jiatong Liang but I also go by Kevin Liang. I am a first-year Statistics PhD student at the University of Michigan Ann Arbor. My current research interests are machine learning, Bayesian statistics, high dimensional statistics, and applications of statistics in biology. 
 <br>
 <h3>Contact Information</h3>

@@ -2,6 +2,7 @@
 # github desktop, everything can be pushed through the TERMINAL in R. 
 # The site has commands to push or create a repo. 
 # http://nickstrayer.me/RMarkdown_Sites_tutorial/
+# Do GIT PUSH ORIGIN MAIN NOT MASTER
 
 name: "Kevins-website"
 output_dir: "."
